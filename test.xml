@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/main/CSS/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/revuedescolonies/revuedescolonies-data/main/odd/tei_revue.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/main/CSS/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -21,7 +21,7 @@
    <text>
       <body>
          <head><hi rend="bold">INSTRUCTIONS FOR USING THE PERSON TEMPLATE</hi></head>
-         <p>TEST Please follow these instructions for creating a TEI personography that can be used for conversion in XTriples. 
+         <p>TEST 2 Please follow these instructions for creating a TEI personography that can be used for conversion in XTriples. 
             All of your work will be done in the listPerson element structure below. Replace placeholder text with your personography information. 
             <list>
                <head><hi rend="bold">Preparation:</hi> To prepare LEAF-Writer environment for creating your personography</head>
